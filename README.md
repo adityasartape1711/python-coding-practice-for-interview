@@ -1,1 +1,1 @@
-# python-coding-practice-for-interview
+This repository contains a collection of Python coding exercises and solutions that I have worked on to improve my skills in Python programming. The problems cover a wide range of topics, including algorithms, data structures, and more. The goal of this repository is to document my learning journey and to serve as a resource for anyone who wants to practice and enhance their Python programming skills.# python-coding-practice-for-interview
